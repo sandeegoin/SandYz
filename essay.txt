@@ -1,1 +1,4 @@
-If you are running an MS-DOS version 4.x or lower or you cannot use any of the above methods you can also use copy con to create a file. Once you have entered the above command this will create the hope.txt file. After you have typed all the lines you want to be in the file, press and hold CTRL + Z.
+
+//by sandeep behra
+
+If you are running an MS-DOS version 4.x or lower or you cannot use any of the above methods you can also use copy con to create a file. Once you have entered the above command this will create the hope.txt file. After you have typed all the lines you want to be in the file, press and hold CTRL +Z.
